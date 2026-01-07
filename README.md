@@ -2,7 +2,7 @@
 
 A enthusiastic coder and a Computer Science and Engineering student with a passion for turning unique ideas into reality. 
 
-When I'm not coding, you can find me exploring new tech gadgets, playing strategy games, or participating in hackathons.
+When I'm not coding, you can find me reading webnovels, playing strategy games, or participating in hackathons.
 
 ## About Me
 
@@ -15,4 +15,5 @@ When I'm not coding, you can find me exploring new tech gadgets, playing strateg
 
 - **Programming Languages:** HTML, CSS, JavaScript, C, Python, Java
 - **Databases:** MySQL  
+
 
